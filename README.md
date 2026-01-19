@@ -13,3 +13,7 @@ Ejercicio práctico con 3 promesas que simulan peticiones a BD, verifican la hor
 - `index.html` - Interfaz
 - `style.css` - Estilos
 - `script.js` - Las 3 promesas
+
+## Pantallazo
+
+<img width="1365" height="719" alt="Pantallazo01" src="https://github.com/user-attachments/assets/e2b4953e-1505-4e07-b5f2-70873e3991f7" />
